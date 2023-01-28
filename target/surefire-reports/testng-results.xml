@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15046" started-at="2023-01-27T18:52:43 AEDT" finished-at="2023-01-27T18:52:58 AEDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15046" started-at="2023-01-27T18:52:43 AEDT" finished-at="2023-01-27T18:52:58 AEDT">
+      <class name="mavenDemo.googleLogin">
+        <test-method status="PASS" signature="setBrowser()[pri:0, instance:mavenDemo.googleLogin@27808f31]" name="setBrowser" is-config="true" duration-ms="0" started-at="2023-01-27T18:52:53 AEDT" finished-at="2023-01-27T18:52:53 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:mavenDemo.googleLogin@27808f31]" name="login" duration-ms="5673" started-at="2023-01-27T18:52:53 AEDT" finished-at="2023-01-27T18:52:58 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="afterLogin()[pri:0, instance:mavenDemo.googleLogin@27808f31]" name="afterLogin" is-config="true" duration-ms="0" started-at="2023-01-27T18:52:58 AEDT" finished-at="2023-01-27T18:52:58 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterLogin -->
+      </class> <!-- mavenDemo.googleLogin -->
+      <class name="mavenDemo.GoogleLogin2">
+        <test-method status="PASS" signature="loginCredentials()[pri:0, instance:mavenDemo.GoogleLogin2@4232c52b]" name="loginCredentials" is-config="true" duration-ms="5097" started-at="2023-01-27T18:52:43 AEDT" finished-at="2023-01-27T18:52:49 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCredentials -->
+        <test-method status="PASS" signature="login2()[pri:0, instance:mavenDemo.GoogleLogin2@4232c52b]" name="login2" duration-ms="3526" started-at="2023-01-27T18:52:49 AEDT" finished-at="2023-01-27T18:52:52 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login2 -->
+        <test-method status="PASS" signature="afterLogin()[pri:0, instance:mavenDemo.GoogleLogin2@4232c52b]" name="afterLogin" is-config="true" duration-ms="714" started-at="2023-01-27T18:52:52 AEDT" finished-at="2023-01-27T18:52:53 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterLogin -->
+      </class> <!-- mavenDemo.GoogleLogin2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

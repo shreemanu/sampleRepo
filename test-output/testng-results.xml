@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-24T16:38:06 AEDT" name="Suite" finished-at="2023-01-24T16:38:17 AEDT" duration-ms="11142">
+    <groups>
+      <group name="Signin Page">
+        <method signature="DemoLisTC.test1()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" name="test1" class="testNGListeners.DemoLisTC"/>
+      </group> <!-- Signin Page -->
+      <group name="LoginPage">
+        <method signature="DemoLisTC.test2()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" name="test2" class="testNGListeners.DemoLisTC"/>
+        <method signature="DemoLisTC.test3()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" name="test3" class="testNGListeners.DemoLisTC"/>
+      </group> <!-- LoginPage -->
+    </groups>
+    <test started-at="2023-01-24T16:38:06 AEDT" name="Test" finished-at="2023-01-24T16:38:17 AEDT" duration-ms="11142">
+      <class name="testNGListeners.DemoLisTC">
+        <test-method is-config="true" signature="preSet()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" started-at="2023-01-24T16:38:06 AEDT" name="preSet" finished-at="2023-01-24T16:38:09 AEDT" duration-ms="2914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSet -->
+        <test-method signature="test1()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" started-at="2023-01-24T16:38:09 AEDT" name="test1" finished-at="2023-01-24T16:38:09 AEDT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="postVerify()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" started-at="2023-01-24T16:38:09 AEDT" name="postVerify" finished-at="2023-01-24T16:38:09 AEDT" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postVerify -->
+        <test-method is-config="true" signature="preSet()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" started-at="2023-01-24T16:38:09 AEDT" name="preSet" finished-at="2023-01-24T16:38:10 AEDT" duration-ms="1377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSet -->
+        <test-method signature="test2()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" started-at="2023-01-24T16:38:10 AEDT" name="test2" finished-at="2023-01-24T16:38:10 AEDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="postVerify()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" started-at="2023-01-24T16:38:10 AEDT" name="postVerify" finished-at="2023-01-24T16:38:11 AEDT" duration-ms="328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postVerify -->
+        <test-method is-config="true" signature="preSet()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" started-at="2023-01-24T16:38:11 AEDT" name="preSet" finished-at="2023-01-24T16:38:12 AEDT" duration-ms="1330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSet -->
+        <test-method signature="test4()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" started-at="2023-01-24T16:38:12 AEDT" name="test4" finished-at="2023-01-24T16:38:12 AEDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="postVerify()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" started-at="2023-01-24T16:38:12 AEDT" name="postVerify" finished-at="2023-01-24T16:38:12 AEDT" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postVerify -->
+        <test-method is-config="true" signature="preSet()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" started-at="2023-01-24T16:38:12 AEDT" name="preSet" finished-at="2023-01-24T16:38:13 AEDT" duration-ms="1158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSet -->
+        <test-method signature="test4()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" started-at="2023-01-24T16:38:13 AEDT" name="test4" finished-at="2023-01-24T16:38:13 AEDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="postVerify()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" started-at="2023-01-24T16:38:13 AEDT" name="postVerify" finished-at="2023-01-24T16:38:14 AEDT" duration-ms="324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postVerify -->
+        <test-method is-config="true" signature="preSet()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" started-at="2023-01-24T16:38:14 AEDT" name="preSet" finished-at="2023-01-24T16:38:15 AEDT" duration-ms="1294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSet -->
+        <test-method signature="test4()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" started-at="2023-01-24T16:38:15 AEDT" name="test4" finished-at="2023-01-24T16:38:15 AEDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="postVerify()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" started-at="2023-01-24T16:38:15 AEDT" name="postVerify" finished-at="2023-01-24T16:38:15 AEDT" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postVerify -->
+        <test-method is-config="true" signature="preSet()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" started-at="2023-01-24T16:38:15 AEDT" name="preSet" finished-at="2023-01-24T16:38:17 AEDT" duration-ms="1160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSet -->
+        <test-method signature="test3()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" started-at="2023-01-24T16:38:17 AEDT" name="test3" finished-at="2023-01-24T16:38:17 AEDT" depends-on-methods="testNGListeners.DemoLisTC.test2" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="postVerify()[pri:0, instance:testNGListeners.DemoLisTC@4738a206]" started-at="2023-01-24T16:38:17 AEDT" name="postVerify" finished-at="2023-01-24T16:38:17 AEDT" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postVerify -->
+      </class> <!-- testNGListeners.DemoLisTC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
